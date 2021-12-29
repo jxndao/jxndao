@@ -1,7 +1,7 @@
 - 👋 Hi, We’re @jxndao
 - 🌱 We are currently working on DeFi and web3...
-- 💞️ I’m looking to collaborate on projects...
-- 📫 How to reach me tools@jxndao.com or discord!
+- 💞️ Looking to collaborate on projects...
+- 📫 How to reach us: tools@jxndao.com or discord!
 
 <!---
 jxndao/jxndao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
